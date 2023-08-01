@@ -19,7 +19,7 @@ Project developed with React to search Marvel and DC characters.
 
 The project was deployed using Vercel.
 
-- [Heroes App in Vercel]()
+- [Heroes App in Vercel](https://heroes-app-khaki-alpha.vercel.app/)
 
 ### Usage
 
