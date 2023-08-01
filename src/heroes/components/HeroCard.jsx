@@ -1,4 +1,4 @@
-import { Link } from 'react-router-dom';
+import { Link } from "react-router-dom";
 
 export const HeroCard = ({
   id,
@@ -24,7 +24,7 @@ export const HeroCard = ({
               <p className="card-text">
                 <small className="text-muted">{first_appearence}</small>
               </p>
-              <Link to={`/hero/${id}`}>Más..</Link>
+              <Link to={`/hero/${id}`}>More..</Link>
             </div>
           </div>
         </div>
